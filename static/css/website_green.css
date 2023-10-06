@@ -1,0 +1,146 @@
+@font-face {
+  font-family: Signika;
+  src: url("/static/fonts/Signika-Bold.ttf");
+}
+@font-face {
+  font-family: Monserrat;
+  src: url("/static/fonts/MontserratAlternates-Medium.otf");
+}
+@font-face {
+  font-family: Signika_light;
+  src: url("/static/fonts/Signika-Light.ttf");
+}
+@font-face {
+  font-family: Klein;
+  src: url("/static/fonts/Klein-Text-Book-trial.ttf");
+}
+@font-face {
+  font-family: Din;
+  src: url("/static/fonts/DIN.ttf");
+}
+.body_blue {
+  background-image: url("/static/images/Beauty_green.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.nike_logo {
+  margin-left: 5%;
+}
+
+.nike_air {
+  font-family: Signika;
+  font-size: 67px;
+  line-height: 1;
+  margin-left: 5%;
+  margin-top: 8%;
+  color: green;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.nike_air span {
+  margin-top: -35px;
+}
+
+.nike_text {
+  font-family: Din;
+  font-size: 16px;
+  margin-left: 5%;
+  font-weight: 100;
+  margin-top: -3%;
+}
+
+.nike_buy {
+  margin-left: 5%;
+  padding: 16px;
+  font-size: 12px;
+  border: solid green 2px;
+  box-shadow: 0 0 5px green, 0 0 25px;
+  background-color: green;
+}
+
+.icons {
+  margin-left: 5%;
+  margin-top: 10%;
+  margin-bottom: 17px;
+  font-size: 28px;
+  color: green;
+}
+
+.icons ion-icon {
+  margin-right: 17px;
+}
+
+nav {
+  margin-top: -47%;
+  margin-left: 69%;
+}
+
+nav button {
+  margin-right: 37px;
+  font-family: Din;
+  font-size: 17px;
+  background: transparent;
+  border: 0px solid black;
+}
+
+.home {
+  background-color: green;
+}
+
+table {
+  margin-left: 67%;
+  margin-top: 32%;
+  width: 20%;
+}
+
+th {
+  border: 2px solid black;
+  width: 50px;
+  box-sizing: border-box;
+  font-family: Din;
+}
+
+.size {
+  margin-left: 67%;
+  margin-top: -6%;
+  font-family: Din;
+}
+
+.color {
+  background: green;
+  border: 3px solid black;
+}
+
+.circles {
+  margin-left: 69%;
+  margin-top: 9%;
+  font-size: 33px;
+}
+
+.circles a {
+  text-decoration: none;
+}
+
+.sky_blue {
+  color: skyblue;
+}
+
+.SK_Green {
+  border: 3px solid black;
+  border-radius: 43px;
+}
+
+.red {
+  color: red;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}/*# sourceMappingURL=website_green.css.map */
